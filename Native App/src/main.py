@@ -12,10 +12,6 @@ from google.api_core.exceptions import Conflict
 from pydub.utils import mediainfo
 import easygui
 
-__author__ = "Aaron Frank"
-__copyright__ = "Copyright 2020"
-__credits__ = ["Aaron Frank"]
-
 __license__ = "MIT"
 __version__ = "0.0.1"
 
